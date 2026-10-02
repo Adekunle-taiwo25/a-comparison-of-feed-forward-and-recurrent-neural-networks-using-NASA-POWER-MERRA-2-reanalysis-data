@@ -1,0 +1,2 @@
+# a-comparison-of-feed-forward-and-recurrent-neural-networks-using-NASA-POWER-MERRA-2-reanalysis-data
+Flooding is Nigeria's most recurrent natural hazard, yet operational flood prediction relies on hydrological models whose data requirements are difficult to meet across much of the country. Freely available reanalysis climate data offer a potential basis for nationwide flood-risk screening, but data-driven studies that construct 
